@@ -8,7 +8,9 @@ O site era a página inicial de um Portifólio pessoal, foi pedido que se reprod
 
 Ele deveria ser responsivo apenas para celulares.
 
-### Meu Portifólio
+
+
+## Meu Portifólio
 Seguindo o exemplo, personalizando de acordo com a idéia que tenho para um possível futuro portifólio pessoal, desenvolvi o seguinte site:
 
 <img src="assets/imagesreadme/meu.gif">
